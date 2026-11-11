@@ -1,58 +1,32 @@
-# Hi, I'm Zyle 👋
+# Zyle Doctolero
 
-**Frontend Developer · CS Graduate · Davao City, PH**
+**Frontend developer (React, TypeScript) in Davao City, Philippines. Open to full-time roles, on-site or remote.**
 
-I just graduated with a BS in Computer Science from the University of Immaculate Conception (April 2026). I'm into frontend development — React is my main stack, and I've been building with it across internship work, school projects, and my thesis.
+[Portfolio](https://zyledoctolero.vercel.app) · [Email](mailto:drzyle@gmail.com)
 
-Currently looking for my **first full-time role as a frontend developer.**
+I build web interfaces people use for real work. During my internship at the Davao City Water District I shipped React and TypeScript features to a production GIS system used to report and track water leaks. I graduated with a BS in Computer Science from the University of the Immaculate Conception in April 2026.
 
----
+## Selected work
 
-## 🛠️ Tech Stack
+| Project | What it is | My part | Stack | Links |
+| --- | --- | --- | --- | --- |
+| **DCWD GIS Leak Management** | Internal platform for the Davao City Water District to report and track leaks. | Intern developer: UI components, API integration with TanStack Query, reporting, address search, image handling. | React, TypeScript, TanStack Query, Zustand, Ant Design | Private (client system) |
+| **HEROCS** | On-device mobile app that detects household hazards with YOLOv8 and AR. Dataset of 5,373 images, 24 hazard classes. | Thesis project (team). | Flutter, TensorFlow Lite, ARCore | [Code](https://github.com/riggsybanez/HEROCS-Project) |
 
-**Languages**
-`JavaScript` `Java` `Python` `SQL`
+## Stack
 
-**Frameworks & Libraries**
-`React JS` `Ant Design` `Zustand` `TanStack Query` `Axios` `Vanilla Extract CSS`
+- **Daily:** JavaScript, TypeScript, React, TanStack Query, Zustand, Ant Design, CSS
+- **Also used:** Firebase, Flutter, Python, SQL, Figma, Git
+- **Learning now:** Next.js, Docker
 
-**Tools & Platforms**
-`Figma` `Vercel` `Netlify` `Firebase` `Git & GitHub`
+## Experience
 
-**Currently Learning**
-`TypeScript` `Next.js` `Docker` `GraphQL`
+**Intern Developer, Davao City Water District** (2026, on-site)
 
----
+- Built and improved React and TypeScript UI components in a production system
+- Connected the frontend to APIs with TanStack Query and custom hooks
+- Delivered reporting, address search and image handling features
 
-## 🚀 Projects
+## Contact
 
-### 🏠 HEROCS — Household Hazard Detection System
-An on-device mobile computer vision app that detects household hazards in real time using AI and augmented reality. Built as my thesis project to help caregivers improve child safety through instant risk assessment and visual guidance.
-
-### 🎓 UIC-CCS Alumni Portal System
-A centralized web-based alumni management platform featuring tracer studies, job postings, messaging, and analytics — helping institutions strengthen alumni relationships and make data-driven decisions.
-
-### 💧 DCWD GIS Leak Management System *(Internship Project)*
-A web-based platform for the Davao City Water District to manage and report water supply leaks. Built with React and TypeScript — features real-time incident tracking, data visualization, and automated notifications.
-
----
-
-## 💼 Experience
-
-**Intern Developer — Davao City Water District**
-- Built and improved UI components using React and TypeScript
-- Connected frontend to APIs using TanStack Query and custom hooks
-- Worked on reporting features, address search, and image handling
-- Improved UI consistency and usability across the system
-
----
-
-## 📫 Get in Touch
-
-- 📧 drzyle@gmail.com
-- 🐦 [@ZyleDoctolero]
-- 📍 Davao City, Philippines
-
----
-
-*Open to full-time frontend roles — feel free to reach out!*
+Looking for my first full-time frontend role. Email is the fastest way to reach me: [drzyle@gmail.com](mailto:drzyle@gmail.com)
