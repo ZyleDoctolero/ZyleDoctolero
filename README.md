@@ -1,32 +1,31 @@
 # Zyle Doctolero
 
-**Frontend developer (React, TypeScript) in Davao City, Philippines. Open to full-time roles, on-site or remote.**
+**Full stack developer (React, TypeScript, Supabase) in Davao City, Philippines. Open to full stack roles, remote or on-site.**
 
-[Portfolio](https://zyledoctolero.vercel.app) · [Email](mailto:drzyle@gmail.com)
+[Portfolio](https://zyledoctolero.vercel.app) · [Résumé](https://zyledoctolero.vercel.app/Zyle-Doctolero-CV.pdf) · [LinkedIn](https://www.linkedin.com/in/zyle-adam-doctolero) · [Email](mailto:drzyle@gmail.com)
 
-I build web interfaces people use for real work. During my internship at the Davao City Water District I shipped React and TypeScript features to a production GIS system used to report and track water leaks. I graduated with a BS in Computer Science from the University of the Immaculate Conception in April 2026.
-
-## Selected work
-
-| Project | What it is | My part | Stack | Links |
-| --- | --- | --- | --- | --- |
-| **DCWD GIS Leak Management** | Internal platform for the Davao City Water District to report and track leaks. | Intern developer: UI components, API integration with TanStack Query, reporting, address search, image handling. | React, TypeScript, TanStack Query, Zustand, Ant Design | Private (client system) |
-| **HEROCS** | On-device mobile app that detects household hazards with YOLOv8 and AR. Dataset of 5,373 images, 24 hazard classes. | Thesis project (team). | Flutter, TensorFlow Lite, ARCore | [Code](https://github.com/riggsybanez/HEROCS-Project) |
-
-## Stack
-
-- **Daily:** JavaScript, TypeScript, React, TanStack Query, Zustand, Ant Design, CSS
-- **Also used:** Firebase, Flutter, Python, SQL, Figma, Git
-- **Learning now:** Next.js, Docker
+I build features from the database to the screen. I'm a full stack engineer at EMIGMA, a relocation startup. Before that I spent 400+ hours at the Davao City Water District building tools field crews and office staff use every day. BS Computer Science, University of the Immaculate Conception, 2026.
 
 ## Experience
 
-**Intern Developer, Davao City Water District** (2026, on-site)
+**Full Stack Engineer, EMIGMA** (Jun 2026 – now)
+- Built sign-up with identity verification, a document vault with location-based approval steps, and a relocation-readiness dashboard
+- Built a vendor marketplace and a case board with performance reports for agencies
 
-- Built and improved React and TypeScript UI components in a production system
-- Connected the frontend to APIs with TanStack Query and custom hooks
-- Delivered reporting, address search and image handling features
+**Frontend Developer Intern, Davao City Water District** (Jan – Mar 2026)
+- Built a major operations module end to end
+- Moved the app's data handling from MobX to TanStack Query, fixing screens that showed outdated data
+- Built admin tools for accounts and access control, and report forms with printable pages
 
-## Contact
+## Selected work
 
-Looking for my first full-time frontend role. Email is the fastest way to reach me: [drzyle@gmail.com](mailto:drzyle@gmail.com)
+| Project | What it is | My part | Links |
+| --- | --- | --- | --- |
+| **DCWD leak and operations system** | Internal system for reporting, dispatching and tracking water leaks | Intern developer | [Dashboard repo](https://github.com/abllenos/dcwd_dashboard) |
+| **HEROCS** | On-device mobile app that detects household hazards with YOLOv8. 5,373 images, 24 hazard classes | Project manager, thesis team | [Case study](https://zyledoctolero.vercel.app/work/herocs) · [Code](https://github.com/riggsybanez/HEROCS-Project) |
+
+## Stack
+
+- **Daily:** TypeScript, React, Supabase (PostgreSQL), Tailwind CSS, TanStack Query, Zustand
+- **Also used:** JavaScript, Python, MobX, Ant Design, REST APIs, Figma
+- **Learning now:** Flutter, Dart
