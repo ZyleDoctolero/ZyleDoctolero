@@ -23,6 +23,7 @@ I build features from the database to the screen. I'm a full stack engineer at E
 | --- | --- | --- | --- |
 | **DCWD leak and operations system** | Internal system for reporting, dispatching and tracking water leaks | Intern developer | [Dashboard repo](https://github.com/abllenos/dcwd_dashboard) |
 | **HEROCS** | On-device mobile app that detects household hazards with YOLOv8. 5,373 images, 24 hazard classes | Project manager, thesis team | [Case study](https://zyledoctolero.vercel.app/work/herocs) · [Code](https://github.com/riggsybanez/HEROCS-Project) |
+| **UIC-CCS Alumni Portal** | Alumni platform with tracer studies, job postings and admin analytics | QA and team member | [Live](https://ccs-alumni-portal-system.vercel.app) |
 
 ## Stack
 
